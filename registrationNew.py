@@ -159,6 +159,9 @@ class Ui_registrationPage(object):
            BAL REAL(200) );
            ''')
         self.insertdb()
+######################################################
+######   AUTHENTICATION FOR REGISTRATION PAGE  #######
+######################################################
 
     def insertdb(self):
         username = self.lineEdit_Username.text()
@@ -188,6 +191,7 @@ class Ui_registrationPage(object):
                     c.execute("INSERT INTO NEWBANK(USERNAME, FIRSTNAME, LASTNAME, EMAIL, PASSWORD, CONFIRM, PHONE, SEX ,ADDRESS)VALUES (?,?,?,?,?,?,?,?,?)", (str(username), str(firstname), str(lastname), str(email), str(password), str(confirmPass), str(phone), str(sex), str(address)))
                     print('insert done')
                     dbb.commit()
+                    dbb.close()
                     self.login()
 
 

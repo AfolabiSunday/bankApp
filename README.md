@@ -2,7 +2,6 @@
 # Bank App
 ## Banking app using python, pyQt5 and sqlite for database
 
-![](https://camo.githubusercontent.com/c35f86c69d2b4ac1eca184fc8e796bccbf505981/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f746f6c756c6f70652d6f642f62616e6b612e737667)
 
 # INTRODUCTIONS
 
@@ -30,6 +29,12 @@ Clone this repo to an enviroment/folder on your machine and install dependencies
 
 > python mainwelcom.py
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#Afolabi`
+### Do not forget to connect to mysql using your own details
+
+# SCREENSHOTS
+![1](page1.jpg)
+![2](page2.jpg)
+![3](page3.jpg)
+![4](page4.jpg)
+![5](page5.jpg)
+![6](page6.jpg)
