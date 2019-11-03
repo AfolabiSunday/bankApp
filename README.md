@@ -42,6 +42,8 @@ Clone this repo to an enviroment/folder on your machine and install dependencies
 # Conclusion
 
 This is a free app to be use by anyone.
-__
+___
+
 THANKS FOR USING
-__ 
+
+___
