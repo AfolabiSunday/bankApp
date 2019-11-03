@@ -38,3 +38,10 @@ Clone this repo to an enviroment/folder on your machine and install dependencies
 ![4](page4.jpg)
 ![5](page5.jpg)
 ![6](page6.jpg)
+
+# Conclusion
+
+This is a free app to be use by anyone.
+__
+THANKS FOR USING
+__ 
