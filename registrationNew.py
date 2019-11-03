@@ -10,7 +10,6 @@ c = dbb.cursor()
 
 class Ui_registrationPage(object):
     def setupUi(self, registrationPage):
-        Ui_LoginWindow.close()
         registrationPage.setObjectName("registrationPage")
         registrationPage.resize(591, 486)
         registrationPage.setStyleSheet("background-color: rgb(12, 31, 45);\n"
