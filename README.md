@@ -32,12 +32,25 @@ Clone this repo to an enviroment/folder on your machine and install dependencies
 ### Do not forget to connect to mysql using your own details
 
 # SCREENSHOTS
+___
+
 ![1](page1.jpg)
+___
+
 ![2](page2.jpg)
+___
+
 ![3](page3.jpg)
+___
+
 ![4](page4.jpg)
+___
+
 ![5](page5.jpg)
+___
+
 ![6](page6.jpg)
+___
 
 # Conclusion
 
